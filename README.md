@@ -1,2 +1,0 @@
-# bitbin
-bitbin project
